@@ -67,7 +67,7 @@ header a, footer a {
     background-color: rgba(37, 35, 35, 0.534);
     display: inline-block;
     padding: 5px;
-    text-shadow: 2px 2px 0px black;
+    text-shadow: 1px 1px 0px black;
  }
  section > p{
    padding-bottom: 2em;
